@@ -1,4 +1,6 @@
 print('Hello world! My fisrt test on Python!')
+print('Hello world', 5)
+
 
 #This is a commentary.
 
