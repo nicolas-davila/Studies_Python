@@ -2,6 +2,6 @@ name = input('What´s your name?')
 age = input('How older are you?')
 study = input('What are you studing nowadays?')
 
-print('O nome da pessoa é:', name, '. esta pessoa tem:', age, ' anos',
-      'e esta estudando:', study)
+print('Olá: ', name, '! Seja bem-vindo(a) ao nosso sistema! Você tem: ', age, ' anos',
+      'e está estudando:', study, ' certo?')
 
